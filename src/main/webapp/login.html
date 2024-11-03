@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Static/CSS/Bs-css/bootstrap.min.css">
+    <link rel="stylesheet" href="Static/CSS/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+</head>
+<body class="login">
+<div class="container-fluid bg-dark">
+    <div class="header">
+        <h1 class="text-light text-center py-3">ERP Portal</h1>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-lg-6 col-md-6">
+            <div class="card bx mt-5">
+                <div class="card-body">
+                    <div class="card-title">
+                        <h4>Login as Admin</h4>
+                        <p class="card-test small text-muted">Login with your Email-ID & Password</p>
+                        <form action="login.jsp" method="post" >
+                            <div class="mb-4">
+                                <input type="email" class="form-control form-control-sm" placeholder="Type your Email-Id as Username..." name="email" required>
+                            </div>
+                            <div class="mb-4"></div>
+                            <input type="password" class="form-control form-control-sm" placeholder="Password..." name="password" required>
+                    </div>
+                    <div class="mb-3"></div>
+                    <input type="submit" class="btn btn-block btn-sm btn-dark"  value="Sign In">
+                    <p > Or if you don't have Account please
+                        <a href="signup.html">Registered Here?</a>
+                    </p>
+                </div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+<script src="Static/JavaScript/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

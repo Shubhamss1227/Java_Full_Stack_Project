@@ -1,0 +1,34 @@
+28-Oct-2024 13:58:28.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.0-M24
+28-Oct-2024 13:58:28.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 13:16:30 UTC
+28-Oct-2024 13:58:28.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.0.0
+28-Oct-2024 13:58:28.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+28-Oct-2024 13:58:28.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+28-Oct-2024 13:58:28.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Oct-2024 13:58:28.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+28-Oct-2024 13:58:28.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.12+8-LTS-286
+28-Oct-2024 13:58:28.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Oct-2024 13:58:28.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP\IdeaProjects\ERP_Web
+28-Oct-2024 13:58:28.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\apache-tomcat-11.0.0-M24-windows-x64\apache-tomcat-11.0.0-M24
+28-Oct-2024 13:58:28.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Oct-2024 13:58:28.294 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-Oct-2024 13:58:28.294 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-Oct-2024 13:58:28.294 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Oct-2024 13:58:28.294 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Oct-2024 13:58:28.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\apache-tomcat-11.0.0-M24-windows-x64\apache-tomcat-11.0.0-M24
+28-Oct-2024 13:58:28.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP\IdeaProjects\ERP_Web
+28-Oct-2024 13:58:28.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP\IdeaProjects\ERP_Web\temp
+28-Oct-2024 13:58:28.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP\IdeaProjects\ERP_Web\conf\logging.properties
+28-Oct-2024 13:58:28.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Oct-2024 13:58:28.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.0.1\lib\idea_rt.jar=61766:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.0.1\bin
+28-Oct-2024 13:58:28.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+28-Oct-2024 13:58:28.320 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+28-Oct-2024 13:58:28.433 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+28-Oct-2024 13:58:29.754 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Oct-2024 13:58:29.830 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2279] milliseconds
+28-Oct-2024 13:58:29.975 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Oct-2024 13:58:29.976 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.0-M24]
+28-Oct-2024 13:58:30.009 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP\IdeaProjects\ERP_Web\conf\Catalina\localhost\ERP_Web.xml]
+28-Oct-2024 13:58:32.481 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Oct-2024 13:58:32.687 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\IdeaProjects\ERP_Web\conf\Catalina\localhost\ERP_Web.xml] has finished in [2,675] ms
+28-Oct-2024 13:58:32.698 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Oct-2024 13:58:32.864 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3032] milliseconds
